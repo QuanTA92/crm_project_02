@@ -1,4 +1,5 @@
 hello máy a đẩy nội dung mới, đã update nội dung, nội dung mới phát triển từ máy A
 đây là nội dung máy B thêm nội dung cho file mới 
 máy A thêm nội dung cho task mới 
+git server thêm nội dung
 
